@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://docs.capillarytech.com/loyalty",
+    "title": "Loyalty Program Documentation",
+    "content": "Creating a Successful Loyalty Program. A loyalty program is a structured marketing strategy designed to encourage customers to continue to shop at or use the services of a business associated with the program. Here are the key components: 1. Points System - Customers earn points for purchases - Typical ratio: 1 point per dollar spent - Points can be redeemed for rewards. 2. Tiers and Benefits - Bronze: Basic benefits - Silver: Enhanced rewards (requires 1000 points) - Gold: Premium benefits (requires 5000 points) - Platinum: VIP status (requires 10000 points). 3. Engagement Features - Birthday rewards - Welcome bonus points - Double points days - Referral bonuses"
+  },
+  {
+    "url": "https://docs.capillarytech.com/rewards",
+    "title": "Rewards and Benefits Guide",
+    "content": "Implementing Effective Reward Strategies. 1. Types of Rewards - Instant discounts - Points redemption - Free products - Exclusive access - Early sale access. 2. Surprise and Delight Features - Birthday month bonuses - Anniversary rewards - Random reward drops - Special event bonuses. 3. Member Benefits - Free shipping - Extended returns - Priority customer service - Exclusive member events"
+  },
+  {
+    "url": "https://docs.capillarytech.com/analytics",
+    "title": "Customer Analytics and Insights",
+    "content": "Understanding Customer Behavior. 1. Key Metrics - Customer Lifetime Value (CLV) - Purchase frequency - Average transaction value - Redemption rates. 2. Segmentation - RFM Analysis (Recency, Frequency, Monetary) - Behavioral segments - Preference-based groups. 3. Engagement Tracking - Program participation rates - Point accumulation patterns - Reward redemption behavior"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://docs.example.com/loyalty",
+    "title": "Loyalty Program Documentation",
+    "content": "The loyalty program allows customers to earn points for their purchases. Basic earning rate is 1 point per $1 spent. Points can be redeemed for rewards or discounts on future purchases. Members can track their points balance through the mobile app or website. Special promotions may offer bonus points during specific periods. Customer engagement metrics show higher retention rates among members who redeem points within the first month of joining."
+  },
+  {
+    "url": "https://docs.example.com/points",
+    "title": "Points System Guide",
+    "content": "Points are awarded based on the final purchase amount after discounts. Points are typically credited within 24 hours of purchase. The minimum redemption amount is 100 points. Points expire after 12 months of inactivity. Members can transfer points between accounts with proper authorization. Our VIP tier members receive exclusive benefits and surprise rewards on special occasions."
+  },
+  {
+    "url": "https://docs.example.com/best-practices",
+    "title": "Loyalty Program Best Practices",
+    "content": "Successful loyalty programs focus on early engagement and personalization. Key metrics include first 30-day redemption rate, repeat purchase frequency, and average time between purchases. Customer satisfaction surveys indicate that immediate point visibility and achievable initial rewards are crucial for member retention. Surprise rewards and personalized offers have shown a 25% increase in member engagement."
+  },
+  {
+    "url": "https://docs.example.com/metrics",
+    "title": "Program Success Metrics",
+    "content": "Key performance indicators include member retention rate, points redemption rate, and average basket size for loyalty members. Early engagement metrics focus on time to first redemption and second purchase conversion rate. Customer feedback shows that unclear point values and high redemption thresholds are common barriers to program participation."
+  }
+]
